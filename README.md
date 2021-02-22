@@ -12,3 +12,5 @@ Answers to some of the programming challenges in the Advent Of Code 2020 program
             go build -o day  day1.go
             ./day
 
+        The Go compiler version I use is 1.15.8.
+        
